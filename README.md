@@ -2,9 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CD62&background=39A02500&width=435&lines=%E2%96%91%E2%96%92%E2%96%93%E2%96%88%E2%96%93%E2%96%92%E2%96%91%E2%96%92%E2%96%93%E2%96%88%E2%96%93%E2%96%92+Hi+There!+%E2%96%91%E2%96%91%E2%96%92%E2%96%93%E2%96%88%E2%96%93%E2%96%92%E2%96%91++%E2%96%91%E2%96%92%E2%96%93%E2%96%88%E2%96%93%E2%96%92%E2%96%91%E2%96%91%E2%96%92%E2%96%93%E2%96%88%E2%96%93%E2%96%92%E2%96%91++" alt="Typing SVG" /></a>
   
   
-  <div align="center">
-  <img src="https://github.com/user-attachments/assets/6b402de3-e448-412a-955d-aefe808e7f29" alt="53858C2A-3C7B-486A-A1A8-ACE095973026" width="590" height="590">
-</div>
+
 </h1>
 
 
